@@ -1,0 +1,1063 @@
+{
+    "Arugula_salad": [
+        "Arugula leaves", "Cherry tomatoes", "Cucumber", "Red onion",
+        "Olive oil", "Lemon juice", "Salt", "Black pepper", "Parmesan cheese",
+        "Balsamic vinegar", "Walnuts", "Avocado", "Garlic", "Dijon mustard"
+    ],
+    "Barbecue_chicken": [
+        "Chicken thighs", "Barbecue sauce", "Olive oil", "Garlic powder",
+        "Onion powder", "Paprika", "Salt", "Black pepper", "Honey",
+        "Chili powder", "Soy sauce", "Apple cider vinegar", "Mustard powder",
+        "Cayenne pepper", "Brown sugar"
+    ],
+    "Beaf Peanut butter": [
+        "Beef strips", "Peanut butter", "Soy sauce", "Garlic",
+        "Ginger", "Lime juice", "Honey", "Sesame oil", "Red chili flakes",
+        "Green onions", "Carrots", "Bell peppers", "Cilantro", "Salt",
+        "Black pepper", "Vegetable oil"
+    ],
+    "Beaf stake sandwitch": [
+        "Beef steak", "Baguette bread", "Lettuce", "Tomato slices",
+        "Onions", "Cheddar cheese", "Mayonnaise", "Dijon mustard",
+        "Butter", "Salt", "Black pepper", "Garlic powder", "Olive oil",
+        "Pickles", "Arugula"
+    ],
+    "Beef Bashamel": [
+        "Beef mince", "Onions", "Garlic", "Tomato paste", "Butter",
+        "Flour", "Milk", "Nutmeg", "Salt", "Black pepper", "Olive oil",
+        "Cheddar cheese", "Mozzarella cheese", "Parsley", "Thyme"
+    ],
+    "Beef Kufta": [
+        "Beef mince", "Onions", "Garlic", "Parsley", "Cumin",
+        "Coriander powder", "Paprika", "Salt", "Black pepper", "Eggs",
+        "Breadcrumbs", "Yogurt", "Tomato sauce", "Olive oil", "Mint"
+    ],
+    "Beef bashamil": [
+        "Beef mince", "Tomato paste", "Onions", "Garlic", "Butter",
+        "Flour", "Milk", "Nutmeg", "Salt", "Black pepper", "Olive oil",
+        "Cheddar cheese", "Parsley", "Cinnamon", "Allspice"
+    ],
+    "Beef roll": [
+        "Beef slices", "Spinach", "Feta cheese", "Garlic", "Olive oil",
+        "Salt", "Black pepper", "Breadcrumbs", "Eggs", "Onion powder",
+        "Paprika", "Parsley", "Mint", "Tomato paste", "Red chili flakes"
+    ],
+    "Beef syraih": [
+        "Beef strips", "Soy sauce", "Garlic", "Ginger", "Honey",
+        "Sesame oil", "Rice vinegar", "Chili flakes", "Green onions",
+        "Bell peppers", "Carrots", "Salt", "Black pepper", "Cilantro",
+        "Vegetable oil"
+    ],
+    "Beef_fahita-removebg-preview": [
+        "Beef strips", "Bell peppers", "Onions", "Garlic", "Olive oil",
+        "Lime juice", "Cumin", "Paprika", "Chili powder", "Salt",
+        "Black pepper", "Tortillas", "Sour cream", "Cheddar cheese",
+        "Cilantro"
+    ],
+    "Brownies": [
+        "Dark chocolate", "Butter", "Sugar", "Eggs", "Flour", "Cocoa powder",
+        "Vanilla extract", "Salt", "Baking powder", "Walnuts", "Espresso powder",
+        "Milk", "Chocolate chips", "Brown sugar", "Vegetable oil"
+    ],
+    "Buffalo_chicken": [
+        "Chicken wings", "Hot sauce", "Butter", "Garlic powder", "Onion powder",
+        "Paprika", "Salt", "Black pepper", "Cayenne pepper", "Celery sticks",
+        "Blue cheese", "Ranch dressing", "Olive oil", "Honey", "Vinegar"
+    ],
+    "BurgaRice_Beef": [
+        "Beef mince", "Basmati rice", "Onions", "Garlic", "Tomatoes",
+        "Bell peppers", "Carrots", "Olive oil", "Cumin", "Coriander powder",
+        "Turmeric", "Garam masala", "Salt", "Black pepper", "Green peas",
+        "Butter", "Parsley"
+    ],
+    "BurgaRice_chicken": [
+        "Chicken pieces", "Basmati rice", "Onions", "Garlic", "Tomatoes",
+        "Carrots", "Peas", "Bell peppers", "Olive oil", "Cumin", "Coriander",
+        "Garam masala", "Turmeric", "Salt", "Black pepper", "Butter", "Parsley"
+    ],
+    "Butter_Chicken": [
+        "Chicken pieces", "Yogurt", "Lemon juice", "Garlic paste", "Ginger paste",
+        "Butter", "Cream", "Tomato puree", "Garam masala", "Cumin powder",
+        "Coriander powder", "Chili powder", "Turmeric", "Salt", "Sugar",
+        "Kasuri methi", "Oil", "Onions", "Fenugreek leaves"
+    ],
+    "Cheese Cake": [
+        "Cream cheese", "Sugar", "Eggs", "Graham crackers", "Butter",
+        "Vanilla extract", "Sour cream", "Lemon juice", "Heavy cream",
+        "Salt", "Cornstarch", "Chocolate chips", "Almonds", "Raspberry sauce",
+        "Berries"
+    ],
+    "Chicken Mashroam white rice": [
+        "Chicken breast", "Mushrooms", "Garlic", "Onions", "Butter",
+        "Olive oil", "Salt", "Black pepper", "White rice", "Chicken stock",
+        "Cream", "Parsley", "Thyme", "Lemon juice", "Paprika"
+    ],
+    "Chicken_Biryani": [
+        "Basmati rice", "Chicken", "Yogurt", "Fried onions", "Ginger paste",
+        "Garlic paste", "Green chilies", "Mint leaves", "Coriander leaves",
+        "Garam masala", "Cumin", "Coriander powder", "Turmeric", "Red chili powder",
+        "Salt", "Oil", "Saffron", "Milk"
+    ],
+    "Chicken_Crunchy_Oats2": [
+        "Chicken breast", "Rolled oats", "Eggs", "Breadcrumbs", "Garlic powder",
+        "Onion powder", "Paprika", "Salt", "Black pepper", "Olive oil",
+        "Parmesan cheese", "Cayenne pepper", "Herbs", "Honey", "Mustard"
+    ],
+    "Chicken_Fahita_sandwich": [
+        "Chicken strips", "Bell peppers", "Onions", "Tortillas", "Garlic",
+        "Olive oil", "Paprika", "Cumin", "Chili powder", "Salt", "Black pepper",
+        "Cheddar cheese", "Sour cream", "Lime juice", "Cilantro"
+    ],
+    "Chicken_Fajita": [
+        "Chicken breast", "Bell peppers", "Onions", "Garlic", "Olive oil",
+        "Cumin", "Paprika", "Chili powder", "Salt", "Black pepper",
+        "Tortillas", "Lime juice", "Cilantro", "Cheese", "Sour cream"
+    ],
+    "Chicken_Scallop": [
+        "Chicken breast", "Mushrooms", "Butter", "Cream", "Garlic",
+        "Onions", "Flour", "Chicken stock", "Salt", "Black pepper",
+        "Parsley", "Thyme", "Cheddar cheese", "White wine", "Olive oil"
+    ],
+    "Chocolate Cornflake": [
+        "Cornflakes", "Dark chocolate", "Milk chocolate", "Butter", "Honey",
+        "Peanut butter", "Vanilla extract", "Salt", "Cocoa powder", "Sugar",
+        "Nuts", "Raisins", "Coconut flakes", "Chocolate chips", "Vegetable oil"
+    ],
+    "Dawood_Basha": [
+        "Beef mince", "Onions", "Garlic", "Tomatoes", "Tomato paste",
+        "Butter", "Cinnamon", "Allspice", "Salt", "Black pepper",
+        "Pine nuts", "Olive oil", "Parsley", "Cumin", "Bay leaf"
+    ],
+    "Egg_Sandwich": [
+        "Eggs", "Bread slices", "Mayonnaise", "Butter", "Salt", "Black pepper",
+        "Lettuce", "Tomato slices", "Cheddar cheese", "Mustard", "Paprika",
+        "Chives", "Onions", "Avocado", "Olive oil"
+    ],
+    "Egg_and_Spinach_Croissant": [
+        "Croissant", "Eggs", "Spinach", "Butter", "Cheddar cheese", "Salt",
+        "Black pepper", "Garlic", "Milk", "Cream", "Onions", "Nutmeg",
+        "Olive oil", "Parsley", "Paprika"
+    ],
+    "Fettuccine_Chicken": [
+        "Fettuccine pasta", "Chicken breast", "Garlic", "Butter", "Cream",
+        "Parmesan cheese", "Salt", "Black pepper", "Olive oil", "Onions",
+        "Mushrooms", "Nutmeg", "Parsley", "White wine", "Chili flakes"
+    ],
+    "Granula Yoghort": [
+        "Granola", "Greek yogurt", "Honey", "Blueberries", "Strawberries",
+        "Banana", "Almonds", "Walnuts", "Chia seeds", "Coconut flakes",
+        "Raisins", "Maple syrup", "Vanilla extract", "Pumpkin seeds", "Cinnamon"
+    ],
+    "Greek_Chicken": [
+        "Chicken breast", "Olive oil", "Lemon juice", "Garlic", "Oregano",
+        "Salt", "Black pepper", "Yogurt", "Cucumber", "Red onion",
+        "Feta cheese", "Tomatoes", "Bell peppers", "Parsley", "Mint"
+    ],
+    "Greek_Salad": [
+        "Cucumber", "Tomatoes", "Red onion", "Green bell pepper", "Olives",
+        "Feta cheese", "Olive oil", "Lemon juice", "Oregano", "Salt",
+        "Black pepper", "Red wine vinegar", "Parsley", "Garlic", "Capers"
+    ],
+    "Kabab_Kshkash": [
+        "Beef mince", "Onions", "Garlic", "Parsley", "Cumin", "Paprika",
+        "Chili powder", "Salt", "Black pepper", "Breadcrumbs", "Eggs",
+        "Olive oil", "Mint", "Tomato paste", "Lemon juice"
+    ],
+    "KosKosi_fish": [
+        "Fish fillets", "Coconut milk", "Garlic", "Onions", "Green chilies",
+        "Curry leaves", "Coriander powder", "Cumin powder", "Turmeric",
+        "Salt", "Black pepper", "Lime juice", "Cilantro", "Oil", "Ginger"
+    ],
+    "Koshari": [
+        "Rice", "Lentils", "Chickpeas", "Pasta", "Tomato sauce", "Garlic",
+        "Onions", "Vinegar", "Cumin", "Coriander powder", "Paprika",
+        "Salt", "Black pepper", "Oil", "Fried onions"
+    ],
+    "Lasagna_Bolins_Beef": [
+        "Lasagna sheets", "Beef mince", "Tomato sauce", "Onions", "Garlic",
+        "Mozzarella cheese", "Parmesan cheese", "Ricotta cheese", "Olive oil",
+        "Basil", "Oregano", "Salt", "Black pepper", "Carrot", "Celery"
+    ],
+    "Lazy Cake": [
+        "Digestive biscuits", "Butter", "Condensed milk", "Cocoa powder",
+        "Sugar", "Vanilla extract", "Chocolate chips", "Nuts", "Coconut flakes",
+        "Milk", "Cream", "Honey", "Salt", "Chocolate syrup", "Peanut butter"
+    ],
+    "Muffin_Tin_Mini_Apple_Pies": [
+        "Pie crust", "Apples", "Sugar", "Cinnamon", "Nutmeg", "Butter",
+        "Eggs", "Flour", "Salt", "Vanilla extract", "Lemon juice", "Brown sugar",
+        "Cornstarch", "Cloves", "Allspice"
+    ],
+     "Mushrooms_Chicken": [
+        "Chicken breast", "Mushrooms", "Garlic", "Onions", "Butter",
+        "Olive oil", "Cream", "Thyme", "Parsley", "Salt", "Black pepper",
+        "White wine", "Paprika", "Chicken stock", "Parmesan cheese"
+    ],
+    "Nicoise_salad": [
+        "Tuna", "Green beans", "Potatoes", "Cherry tomatoes", "Olives",
+        "Hard boiled eggs", "Red onion", "Lettuce", "Capers", "Olive oil",
+        "Lemon juice", "Dijon mustard", "Salt", "Black pepper", "Anchovies"
+    ],
+    "Parmesan_Chicken": [
+        "Chicken breast", "Parmesan cheese", "Breadcrumbs", "Eggs", "Flour",
+        "Garlic powder", "Onion powder", "Salt", "Black pepper", "Olive oil",
+        "Butter", "Parsley", "Tomato sauce", "Mozzarella cheese", "Basil"
+    ],
+    "Pesto_Haloom_Sandwich": [
+        "Halloumi cheese", "Bread slices", "Pesto sauce", "Tomato slices",
+        "Lettuce", "Olive oil", "Salt", "Black pepper", "Basil", "Garlic",
+        "Red pepper flakes", "Avocado", "Onions", "Lemon juice", "Butter"
+    ],
+    "Pesto_Pasta_Chicken": [
+        "Pasta", "Chicken breast", "Pesto sauce", "Parmesan cheese", "Olive oil",
+        "Garlic", "Salt", "Black pepper", "Cherry tomatoes", "Basil", "Pine nuts",
+        "Cream", "Spinach", "Lemon juice", "Onions"
+    ],
+    "Pistachio Cake": [
+        "Flour", "Sugar", "Eggs", "Butter", "Milk", "Pistachios", "Baking powder",
+        "Vanilla extract", "Salt", "Almond extract", "Honey", "Cream", "Powdered sugar",
+        "Lemon zest", "Cardamom"
+    ],
+    "Qusadrilla_Beef": [
+        "Tortillas", "Beef mince", "Cheddar cheese", "Onions", "Bell peppers",
+        "Olive oil", "Garlic powder", "Cumin", "Paprika", "Chili powder", "Salt",
+        "Black pepper", "Sour cream", "Cilantro", "Lime juice"
+    ],
+    "Qusadrilla_chicken": [
+        "Tortillas", "Chicken breast", "Cheddar cheese", "Onions", "Bell peppers",
+        "Olive oil", "Garlic powder", "Cumin", "Paprika", "Chili powder", "Salt",
+        "Black pepper", "Sour cream", "Cilantro", "Lime juice"
+    ],
+    "Roast Beef": [
+        "Beef roast", "Garlic", "Rosemary", "Thyme", "Olive oil", "Salt", "Black pepper",
+        "Onions", "Carrots", "Celery", "Beef stock", "Butter", "Red wine", "Bay leaves",
+        "Mustard"
+    ],
+    "Salmon_Fillet": [
+        "Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Dill",
+        "Salt", "Black pepper", "Butter", "Parsley", "Paprika", "Thyme",
+        "Lemon zest", "White wine", "Capers", "Honey"
+    ],
+    "Sayadia_Fish": [
+        "White fish fillets", "Onions", "Garlic", "Basmati rice", "Cumin",
+        "Coriander powder", "Turmeric", "Cinnamon", "Cloves", "Cardamom",
+        "Salt", "Black pepper", "Olive oil", "Fish stock", "Lemon juice"
+    ],
+    "Smoked_salamon_salad": [
+        "Smoked salmon", "Lettuce", "Spinach", "Cherry tomatoes", "Cucumber",
+        "Red onion", "Capers", "Olive oil", "Lemon juice", "Dill", "Salt",
+        "Black pepper", "Avocado", "Feta cheese", "Mustard"
+    ],
+    "Sombrero_salad": [
+        "Lettuce", "Black beans", "Corn", "Tomatoes", "Red onion", "Bell peppers",
+        "Avocado", "Tortilla strips", "Cheddar cheese", "Olive oil", "Lime juice",
+        "Cilantro", "Salt", "Black pepper", "Jalapenos"
+    ],
+    "Sushi_with_Crab_and_Fruits": [
+        "Sushi rice", "Nori sheets", "Crab sticks", "Avocado", "Mango",
+        "Cucumber", "Rice vinegar", "Sugar", "Salt", "Soy sauce", "Sesame seeds",
+        "Wasabi", "Pickled ginger", "Cream cheese", "Mayonnaise"
+    ],
+    "Sweet potato chips": [
+        "Sweet potatoes", "Olive oil", "Salt", "Black pepper", "Paprika",
+        "Cayenne pepper", "Garlic powder", "Onion powder", "Rosemary", "Thyme",
+        "Parmesan cheese", "Chili flakes", "Vegetable oil", "Brown sugar", "Honey"
+    ],
+    "Teramisu": [
+        "Mascarpone cheese", "Eggs", "Sugar", "Coffee", "Ladyfingers", "Cocoa powder",
+        "Vanilla extract", "Rum", "Heavy cream", "Chocolate shavings", "Marsala wine",
+        "Milk", "Salt", "Espresso", "Powdered sugar"
+    ],
+    "Teriyaki_Beef": [
+        "Beef strips", "Soy sauce", "Brown sugar", "Garlic", "Ginger",
+        "Sesame oil", "Cornstarch", "Rice vinegar", "Green onions", "Sesame seeds",
+        "Red chili flakes", "Vegetable oil", "Honey", "Salt", "Black pepper"
+    ],
+    "Thyme manakish": [
+        "All-purpose flour", "Yeast", "Water", "Olive oil", "Salt", "Sugar",
+        "Thyme", "Zaatar spice", "Sesame seeds", "Yogurt", "Garlic", "Olive oil",
+        "Honey", "Lemon juice", "Sumac"
+    ],
+    "Turkey_Roast_Croissant": [
+        "Croissant", "Turkey slices", "Swiss cheese", "Lettuce", "Tomatoes",
+        "Mayonnaise", "Mustard", "Salt", "Black pepper", "Olive oil",
+        "Butter", "Honey", "Dijon mustard", "Pickles", "Onions"
+    ],
+    "Waffle_with_fruits": [
+        "Flour", "Sugar", "Eggs", "Milk", "Butter", "Baking powder", "Vanilla extract",
+        "Salt", "Maple syrup", "Blueberries", "Strawberries", "Banana", "Whipped cream",
+        "Powdered sugar", "Cinnamon"
+    ],
+    "_fish_fillet_with_limon_sauce": [
+        "White fish fillets", "Lemon juice", "Butter", "Garlic", "Olive oil",
+        "Parsley", "Salt", "Black pepper", "White wine", "Thyme", "Flour",
+        "Lemon zest", "Capers", "Chicken stock", "Cream"
+    ],
+    "adhirasam": [
+        "Rice flour", "Jaggery", "Cardamom powder", "Ghee", "Water",
+        "Oil for frying", "Salt", "Coconut", "Cloves", "Nutmeg",
+        "Sugar", "Poppy seeds", "Sesame seeds", "Milk", "Rose water"
+    ],
+    "aloo_gobi": [
+        "Potatoes", "Cauliflower", "Onions", "Tomatoes", "Garlic", "Ginger",
+        "Green chilies", "Turmeric", "Cumin seeds", "Coriander powder", "Garam masala",
+        "Salt", "Oil", "Cilantro", "Lemon juice"
+    ],
+    "aloo_matar": [
+        "Potatoes", "Green peas", "Onions", "Tomatoes", "Garlic", "Ginger",
+        "Green chilies", "Cumin seeds", "Coriander powder", "Turmeric",
+        "Garam masala", "Salt", "Oil", "Cilantro", "Water"
+    ],
+    "aloo_methi": [
+        "Potatoes", "Fenugreek leaves", "Onions", "Garlic", "Ginger", "Green chilies",
+        "Cumin seeds", "Turmeric", "Coriander powder", "Garam masala", "Salt",
+        "Oil", "Cilantro", "Lemon juice", "Mustard seeds"
+    ],
+    "aloo_shimla_mirch": [
+        "Potatoes", "Bell peppers", "Onions", "Tomatoes", "Garlic", "Ginger",
+        "Cumin seeds", "Turmeric", "Coriander powder", "Garam masala", "Salt",
+        "Oil", "Cilantro", "Green chilies", "Lemon juice"
+    ],
+    "aloo_tikki": [
+        "Potatoes", "Bread crumbs", "Green chilies", "Coriander leaves", "Garam masala",
+        "Cumin powder", "Salt", "Black pepper", "Oil for frying", "Chili powder",
+        "Onions", "Ginger", "Lemon juice", "Gram flour", "Mint leaves"
+    ],
+    "amulet_fahita": [
+        "Chicken strips", "Bell peppers", "Onions", "Tortillas", "Garlic",
+        "Olive oil", "Cumin", "Paprika", "Chili powder", "Salt", "Black pepper",
+        "Cheddar cheese", "Sour cream", "Lime juice", "Cilantro"
+    ],
+    "anarsa": [
+        "Rice flour", "Jaggery", "Poppy seeds", "Ghee", "Cardamom powder",
+        "Sesame seeds", "Sugar", "Water", "Salt", "Oil for frying",
+        "Milk", "Cloves", "Nutmeg", "Rose water", "Honey"
+    ],
+    "arika": [
+        "Rice flour", "Coconut", "Sugar", "Cardamom powder", "Ghee",
+        "Jaggery", "Water", "Salt", "Oil for frying", "Nutmeg",
+        "Poppy seeds", "Milk", "Cloves", "Honey", "Rose water"
+    ],
+    "ariselu": [
+        "Rice flour", "Jaggery", "Sesame seeds", "Ghee", "Cardamom powder",
+        "Sugar", "Water", "Salt", "Coconut", "Oil for frying",
+        "Milk", "Cloves", "Nutmeg", "Honey", "Rose water"
+    ],
+    "bandar_laddu": [
+        "Besan (gram flour)", "Sugar", "Ghee", "Cardamom powder", "Coconut",
+        "Cashews", "Almonds", "Raisins", "Nutmeg", "Salt",
+        "Cloves", "Milk", "Saffron", "Honey", "Rose water"
+    ],
+    "basundi": [
+        "Milk", "Sugar", "Cardamom powder", "Saffron strands", "Almonds",
+        "Cashews", "Pistachios", "Kewra water", "Rose water", "Condensed milk",
+        "Cloves", "Nutmeg", "Butter", "Vanilla extract", "Mango essence"
+    ],
+    "beaf burger": [
+        "Beef mince", "Burger buns", "Lettuce", "Tomato slices", "Onions",
+        "Cheddar cheese", "Pickles", "Ketchup", "Mayonnaise", "Salt",
+        "Black pepper", "Garlic powder", "Paprika", "Mustard", "Olive oil"
+    ],
+    "beef pesto with rice": [
+        "Beef strips", "Basmati rice", "Pesto sauce", "Olive oil", "Garlic",
+        "Parmesan cheese", "Salt", "Black pepper", "Cherry tomatoes", "Basil",
+        "Pine nuts", "Onions", "Butter", "Lemon juice", "Parsley"
+    ],
+    "beef sati": [
+        "Beef strips", "Soy sauce", "Peanut butter", "Garlic", "Ginger",
+        "Brown sugar", "Lime juice", "Chili flakes", "Sesame oil", "Vegetable oil",
+        "Green onions", "Carrots", "Bell peppers", "Cilantro", "Salt"
+    ],
+    "beef_fahita": [
+        "Beef strips", "Bell peppers", "Onions", "Garlic", "Olive oil",
+        "Cumin", "Paprika", "Chili powder", "Salt", "Black pepper",
+        "Tortillas", "Cheddar cheese", "Sour cream", "Lime juice", "Cilantro"
+    ],
+    "beef_kabsa": [
+        "Basmati rice", "Beef chunks", "Onions", "Garlic", "Tomatoes",
+        "Carrots", "Ginger", "Cumin", "Coriander", "Black lime",
+        "Cinnamon", "Cloves", "Cardamom", "Salt", "Black pepper", "Oil", "Parsley"
+    ],
+    "bhatura": [
+        "All-purpose flour", "Yogurt", "Baking powder", "Baking soda", "Sugar",
+        "Salt", "Water", "Oil for frying", "Butter", "Milk", "Semolina", "Lemon juice",
+        "Cardamom powder", "Ghee", "Yeast"
+    ],
+    "bhindi_masala": [
+        "Okra", "Onions", "Tomatoes", "Garlic", "Ginger", "Green chilies",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Garam masala",
+        "Salt", "Oil", "Cilantro", "Amchur powder", "Mustard seeds"
+    ],
+    "biryani": [
+        "Basmati rice", "Chicken", "Yogurt", "Fried onions", "Ginger paste",
+        "Garlic paste", "Green chilies", "Mint leaves", "Coriander leaves",
+        "Garam masala", "Cumin", "Coriander powder", "Turmeric", "Red chili powder",
+        "Salt", "Oil", "Saffron", "Milk"
+    ],
+    "boondi": [
+        "Gram flour", "Water", "Sugar", "Cardamom powder", "Saffron strands",
+        "Ghee for frying", "Salt", "Rose water", "Nutmeg", "Cloves", "Coconut",
+        "Milk", "Almonds", "Cashews", "Pistachios"
+    ],
+    "buffalo sandwich": [
+        "Bread slices", "Buffalo chicken", "Lettuce", "Tomato slices", "Onions",
+        "Cheddar cheese", "Mayonnaise", "Hot sauce", "Salt", "Black pepper",
+        "Butter", "Pickles", "Ranch dressing", "Olive oil", "Cilantro"
+    ],
+    "ceasar salad": [
+        "Romaine lettuce", "Parmesan cheese", "Croutons", "Caesar dressing",
+        "Garlic", "Lemon juice", "Olive oil", "Salt", "Black pepper",
+        "Anchovies", "Egg yolk", "Worcestershire sauce", "Dijon mustard",
+        "Capers", "Chicken breast"
+    ],
+    "chak_hao_kheer": [
+        "Black rice", "Milk", "Sugar", "Cardamom powder", "Saffron",
+        "Ghee", "Almonds", "Cashews", "Pistachios", "Rose water",
+        "Nutmeg", "Cloves", "Coconut milk", "Condensed milk", "Butter"
+    ],
+    "cham_cham": [
+        "Chenna (paneer)", "Sugar", "Water", "Cardamom powder", "Rose water",
+        "Saffron", "Ghee", "Almonds", "Pistachios", "Kesar strands",
+        "Milk", "Cornstarch", "Nutmeg", "Cloves", "Sugar syrup"
+    ],
+    "chana_masala": [
+        "Chickpeas", "Onions", "Tomatoes", "Garlic", "Ginger", "Green chilies",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Garam masala",
+        "Salt", "Oil", "Cilantro", "Lemon juice", "Amchur powder"
+    ],
+    "chapati": [
+        "Whole wheat flour", "Water", "Salt", "Oil", "Ghee", "Optional milk",
+        "Baking powder", "Butter", "Corn flour", "Sugar", "Yeast", "Fenugreek",
+        "Olive oil", "Spices", "Herbs"
+    ],
+    "chhena_kheeri": [
+        "Chhena (paneer)", "Milk", "Sugar", "Cardamom powder", "Saffron",
+        "Ghee", "Cashews", "Almonds", "Pistachios", "Nutmeg",
+        "Cloves", "Rose water", "Condensed milk", "Coconut", "Milk cream"
+    ],
+    "chicken burger": [
+        "Chicken breast", "Burger buns", "Lettuce", "Tomato slices", "Onions",
+        "Cheddar cheese", "Mayonnaise", "Ketchup", "Salt", "Black pepper",
+        "Garlic powder", "Paprika", "Olive oil", "Pickles", "Mustard"
+    ],
+    "chicken kabab": [
+        "Chicken pieces", "Yogurt", "Garlic paste", "Ginger paste", "Cumin powder",
+        "Coriander powder", "Garam masala", "Red chili powder", "Salt",
+        "Black pepper", "Lemon juice", "Oil", "Mint leaves", "Cilantro", "Onions"
+    ],
+    "chicken_Tandory": [
+        "Chicken pieces", "Yogurt", "Tandoori masala", "Garlic paste", "Ginger paste",
+        "Lemon juice", "Red chili powder", "Turmeric", "Cumin", "Coriander powder",
+        "Salt", "Black pepper", "Oil", "Ghee", "Fenugreek leaves"
+    ],
+    "chicken_fingers": [
+        "Chicken breast", "Breadcrumbs", "Flour", "Eggs", "Garlic powder",
+        "Onion powder", "Paprika", "Salt", "Black pepper", "Olive oil",
+        "Butter", "Parmesan cheese", "Herbs", "Cayenne pepper", "Mustard"
+    ],
+    "chicken_kabsa": [
+        "Basmati rice", "Chicken pieces", "Onions", "Garlic", "Tomatoes",
+        "Carrots", "Cumin", "Coriander", "Turmeric", "Garam masala",
+        "Salt", "Black pepper", "Oil", "Raisins", "Almonds", "Bay leaves"
+    ],
+    "chicken_mandi": [
+        "Chicken pieces", "Basmati rice", "Onions", "Garlic", "Yogurt",
+        "Ghee", "Cumin", "Coriander powder", "Turmeric", "Garam masala",
+        "Salt", "Black pepper", "Cardamom", "Cloves", "Saffron", "Parsley"
+    ],
+    "chicken_mushroam_sandwich": [
+        "Chicken breast", "Mushrooms", "Bread slices", "Lettuce", "Tomato slices",
+        "Mayonnaise", "Butter", "Cheddar cheese", "Garlic", "Onion powder",
+        "Salt", "Black pepper", "Olive oil", "Parsley", "Thyme"
+    ],
+    "chicken_peanut_butter": [
+        "Chicken breast", "Peanut butter", "Soy sauce", "Garlic", "Ginger",
+        "Honey", "Lime juice", "Sesame oil", "Green onions", "Carrots",
+        "Bell peppers", "Salt", "Black pepper", "Chili flakes", "Vegetable oil"
+    ],
+    "chicken_pizza": [
+        "Pizza dough", "Chicken breast", "Tomato sauce", "Mozzarella cheese",
+        "Onions", "Bell peppers", "Olive oil", "Garlic", "Oregano", "Salt",
+        "Black pepper", "Parmesan cheese", "Basil", "Chili flakes", "Mushrooms"
+    ],
+    "chicken_razala": [
+        "Chicken pieces", "Yogurt", "Ginger paste", "Garlic paste", "Onions",
+        "Tomato puree", "Cream", "Ghee", "Coriander powder", "Cumin powder",
+        "Garam masala", "Turmeric", "Red chili powder", "Salt", "Black pepper"
+    ],
+    "chicken_shreded": [
+        "Chicken breast", "Onions", "Garlic", "Carrots", "Celery",
+        "Chicken stock", "Salt", "Black pepper", "Olive oil", "Parsley",
+        "Thyme", "Butter", "Flour", "Cream", "Paprika"
+    ],
+    "chicken_sweat_and_sour": [
+        "Chicken breast", "Pineapple chunks", "Bell peppers", "Onions",
+        "Garlic", "Ginger", "Soy sauce", "Vinegar", "Brown sugar", "Cornstarch",
+        "Salt", "Black pepper", "Olive oil", "Sesame oil", "Green onions"
+    ],
+    "chicken_tikka": [
+        "Chicken breast", "Yogurt", "Ginger paste", "Garlic paste", "Red chili powder",
+        "Turmeric", "Cumin powder", "Coriander powder", "Garam masala", "Lemon juice",
+        "Salt", "Black pepper", "Oil", "Fenugreek leaves", "Paprika"
+    ],
+    "chicken_tikka_masala": [
+        "Chicken breast", "Yogurt", "Ginger paste", "Garlic paste", "Tomato puree",
+        "Cream", "Onions", "Butter", "Garam masala", "Cumin powder", "Coriander powder",
+        "Turmeric", "Red chili powder", "Salt", "Black pepper", "Oil", "Fenugreek leaves"
+    ],
+    "chicken_tortila_sandwich": [
+        "Chicken breast", "Tortillas", "Lettuce", "Tomatoes", "Onions",
+        "Cheddar cheese", "Mayonnaise", "Olive oil", "Garlic", "Salt",
+        "Black pepper", "Cumin", "Paprika", "Sour cream", "Cilantro"
+    ],
+    "chicken_turyaki": [
+        "Chicken breast", "Soy sauce", "Mirin", "Sake", "Sugar", "Garlic",
+        "Ginger", "Sesame oil", "Green onions", "Sesame seeds", "Carrots",
+        "Bell peppers", "Salt", "Black pepper", "Vegetable oil"
+    ],
+    "chikki": [
+        "Peanuts", "Jaggery", "Ghee", "Cardamom powder", "Sesame seeds",
+        "Sugar", "Salt", "Honey", "Water", "Coconut flakes",
+        "Nutmeg", "Cloves", "Rose water", "Almonds", "Cashews"
+    ],
+    "chinees_fish": [
+        "Fish fillets", "Soy sauce", "Garlic", "Ginger", "Green onions",
+        "Cornstarch", "Vegetable oil", "Sugar", "Vinegar", "Bell peppers",
+        "Carrots", "Salt", "Black pepper", "Sesame oil", "Chili flakes"
+    ],
+    "chinese_chicken_with_rice": [
+        "Chicken breast", "Rice", "Soy sauce", "Garlic", "Ginger", "Vegetable oil",
+        "Carrots", "Bell peppers", "Onions", "Green onions", "Salt", "Black pepper",
+        "Sugar", "Sesame oil", "Cornstarch"
+    ],
+    "creamy_chicken": [
+        "Chicken breast", "Butter", "Garlic", "Onions", "Mushrooms", "Cream",
+        "Chicken stock", "Parmesan cheese", "Thyme", "Salt", "Black pepper",
+        "Olive oil", "Flour", "Paprika", "Parsley"
+    ],
+    "daal_baati_churma": [
+        "Whole wheat flour", "Ghee", "Sugar", "Chana dal", "Turmeric",
+        "Cumin seeds", "Coriander powder", "Salt", "Black pepper", "Cardamom powder",
+        "Cloves", "Baking powder", "Milk", "Butter", "Fennel seeds"
+    ],
+    "daal_puri": [
+        "Whole wheat flour", "Split yellow lentils", "Ghee", "Salt",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Chili powder",
+        "Water", "Baking powder", "Oil for frying", "Garlic", "Ginger", "Green chilies", "Fenugreek leaves"
+    ],
+    "dal_makhani": [
+        "Whole black lentils", "Red kidney beans", "Butter", "Cream",
+        "Onions", "Tomatoes", "Garlic", "Ginger", "Green chilies", "Cumin seeds",
+        "Coriander powder", "Garam masala", "Turmeric", "Salt", "Black pepper",
+        "Kasuri methi"
+    ],
+    "dal_tadka": [
+        "Yellow lentils", "Onions", "Tomatoes", "Garlic", "Ginger",
+        "Green chilies", "Cumin seeds", "Mustard seeds", "Turmeric", "Red chili powder",
+        "Ghee", "Oil", "Salt", "Cilantro", "Asafoetida"
+    ],
+    "dharwad_pedha": [
+        "Milk", "Sugar", "Cardamom powder", "Ghee", "Condensed milk", "Saffron",
+        "Nutmeg", "Cloves", "Almonds", "Cashews", "Pistachios", "Rose water",
+        "Kesar strands", "Butter", "Milk powder"
+    ],
+    "doodhpak": [
+        "Rice", "Milk", "Sugar", "Cardamom powder", "Saffron",
+        "Almonds", "Cashews", "Pistachios", "Ghee", "Rose water",
+        "Nutmeg", "Cloves", "Condensed milk", "Butter", "Milk cream"
+    ],
+    "double_ka_meetha": [
+        "Bread slices", "Milk", "Sugar", "Cardamom powder", "Ghee",
+        "Saffron", "Almonds", "Cashews", "Pistachios", "Condensed milk",
+        "Nutmeg", "Cloves", "Butter", "Rose water", "Milk powder"
+    ],
+    "dum_aloo": [
+        "Potatoes", "Yogurt", "Tomato puree", "Onions", "Garlic", "Ginger",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Red chili powder",
+        "Garam masala", "Salt", "Oil", "Cilantro", "Kasuri methi"
+    ],
+    "falafel": [
+        "Chickpeas", "Onions", "Garlic", "Parsley", "Cilantro", "Cumin",
+        "Coriander powder", "Baking powder", "Flour", "Salt", "Black pepper",
+        "Lemon juice", "Vegetable oil", "Sesame seeds", "Paprika"
+    ],
+    "fool": [
+        "Fava beans", "Garlic", "Lemon juice", "Olive oil", "Salt", "Black pepper",
+        "Cumin", "Coriander", "Parsley", "Onions", "Tomatoes", "Chili flakes",
+        "Tahini", "Mint", "Ginger"
+    ],
+    "fruit salad_": [
+        "Apple", "Banana", "Orange", "Grapes", "Pineapple", "Mango",
+        "Strawberries", "Blueberries", "Honey", "Lemon juice", "Mint",
+        "Yogurt", "Kiwi", "Chia seeds", "Pomegranate seeds"
+    ],
+    "fruit_salad": [
+        "Apple", "Banana", "Orange", "Grapes", "Pineapple", "Mango",
+        "Strawberries", "Blueberries", "Honey", "Lemon juice", "Mint",
+        "Yogurt", "Kiwi", "Chia seeds", "Pomegranate seeds"
+    ],
+    "gajar_ka_halwa": [
+        "Carrots", "Milk", "Sugar", "Ghee", "Cardamom powder", "Cashews",
+        "Almonds", "Pistachios", "Nutmeg", "Cloves", "Saffron", "Condensed milk",
+        "Butter", "Rose water", "Milk cream"
+    ],
+    "gavvalu": [
+        "Rice flour", "Jaggery", "Ghee", "Cardamom powder", "Sesame seeds",
+        "Sugar", "Water", "Nutmeg", "Cloves", "Milk", "Rose water", "Oil for frying",
+        "Coconut flakes", "Almonds", "Cashews"
+    ],
+    "ghevar": [
+        "All-purpose flour", "Sugar", "Ghee", "Milk", "Water", "Cardamom powder",
+        "Saffron", "Rose water", "Almonds", "Pistachios", "Nutmeg", "Cloves",
+        "Oil for frying", "Condensed milk", "Butter"
+    ],
+    "gulab_jamun": [
+        "Milk powder", "All-purpose flour", "Ghee", "Milk", "Sugar", "Water",
+        "Cardamom powder", "Rose water", "Saffron", "Nutmeg", "Cloves",
+        "Oil for frying", "Condensed milk", "Butter", "Baking powder"
+    ],
+    "high_protine_pizza": [
+        "Whole wheat pizza base", "Chicken breast", "Mozzarella cheese", "Tomato sauce",
+        "Bell peppers", "Onions", "Spinach", "Olive oil", "Garlic", "Salt",
+        "Black pepper", "Parmesan cheese", "Mushrooms", "Basil", "Chili flakes"
+    ],
+    "honey_chicken": [
+        "Chicken breast", "Honey", "Soy sauce", "Garlic", "Ginger", "Olive oil",
+        "Cornstarch", "Green onions", "Salt", "Black pepper", "Bell peppers",
+        "Carrots", "Sesame seeds", "Rice vinegar", "Vegetable oil"
+    ],
+    "imarti": [
+        "Urad dal", "Sugar", "Water", "Ghee", "Saffron", "Cardamom powder",
+        "Rose water", "Nutmeg", "Cloves", "Oil for frying", "Condensed milk",
+        "Milk", "Almonds", "Pistachios", "Cashews"
+    ],
+    "jalebi": [
+        "All-purpose flour", "Yogurt", "Sugar", "Water", "Saffron", "Cardamom powder",
+        "Ghee for frying", "Oil", "Baking powder", "Lemon juice", "Rose water",
+        "Milk", "Nutmeg", "Cloves", "Condensed milk"
+    ],
+    "kachori": [
+        "All-purpose flour", "Ghee", "Salt", "Water", "Spiced lentil filling",
+        "Cumin seeds", "Coriander powder", "Fennel seeds", "Turmeric", "Chili powder",
+        "Oil for frying", "Ginger", "Green chilies", "Asafoetida", "Cilantro"
+    ],
+    "kadai_paneer": [
+        "Paneer cubes", "Onions", "Tomatoes", "Bell peppers", "Garlic", "Ginger",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Red chili powder",
+        "Garam masala", "Salt", "Oil", "Cilantro", "Kasuri methi"
+    ],
+    "kadhi_pakoda": [
+        "Gram flour", "Yogurt", "Onions", "Turmeric", "Red chili powder", "Cumin seeds",
+        "Mustard seeds", "Fenugreek seeds", "Salt", "Oil for frying", "Cilantro",
+        "Garlic", "Ginger", "Green chilies", "Asafoetida"
+    ],
+    "kajjikaya": [
+        "Rice flour", "Jaggery", "Ghee", "Coconut", "Cardamom powder",
+        "Sugar", "Water", "Nutmeg", "Cloves", "Rose water",
+        "Almonds", "Cashews", "Milk", "Oil for frying", "Pistachios"
+    ],
+    "kakinada_khaja": [
+        "All-purpose flour", "Sugar", "Ghee", "Water", "Cardamom powder",
+        "Oil for frying", "Saffron", "Rose water", "Milk", "Nutmeg",
+        "Cloves", "Almonds", "Cashews", "Pistachios", "Condensed milk"
+    ],
+    "kalakand": [
+        "Paneer", "Milk", "Sugar", "Cardamom powder", "Ghee",
+        "Rose water", "Saffron", "Condensed milk", "Almonds", "Cashews",
+        "Pistachios", "Nutmeg", "Cloves", "Milk powder", "Butter"
+    ],
+    "karela_bharta": [
+        "Bitter gourd", "Onions", "Tomatoes", "Garlic", "Ginger",
+        "Cumin seeds", "Turmeric", "Coriander powder", "Red chili powder",
+        "Salt", "Oil", "Cilantro", "Green chilies", "Mustard seeds", "Lemon juice"
+    ],
+    "kino salad": [
+        "Quinoa", "Lettuce", "Cherry tomatoes", "Cucumber", "Avocado",
+        "Red onion", "Olive oil", "Lemon juice", "Salt", "Black pepper",
+        "Feta cheese", "Bell peppers", "Carrots", "Cilantro", "Pumpkin seeds"
+    ],
+    "kinoa_salad": [
+        "Quinoa", "Spinach", "Cherry tomatoes", "Cucumber", "Avocado",
+        "Red onion", "Olive oil", "Lemon juice", "Salt", "Black pepper",
+        "Feta cheese", "Bell peppers", "Carrots", "Cilantro", "Sunflower seeds"
+    ],
+    "kofta": [
+        "Minced meat or paneer", "Onions", "Garlic", "Ginger", "Tomatoes",
+        "Cumin powder", "Coriander powder", "Turmeric", "Garam masala",
+        "Red chili powder", "Salt", "Oil", "Yogurt", "Cream", "Cilantro"
+    ],
+    "kuzhi_paniyaram": [
+        "Rice flour", "Urad dal", "Salt", "Water", "Oil for frying",
+        "Green chilies", "Onions", "Curry leaves", "Coconut", "Mustard seeds",
+        "Cumin seeds", "Ginger", "Turmeric", "Coriander leaves", "Asafoetida"
+    ],
+    "labnah_Pie": [
+        "Labneh", "Pie crust", "Sugar", "Eggs", "Lemon zest", "Vanilla extract",
+        "Butter", "Cream", "Salt", "Honey", "Almonds", "Pistachios", "Cinnamon",
+        "Nutmeg", "Ginger"
+    ],
+    "lassi": [
+        "Yogurt", "Water", "Sugar", "Salt", "Cardamom powder", "Rose water",
+        "Mint leaves", "Saffron", "Ice cubes", "Honey", "Lemon juice", "Nutmeg",
+        "Cloves", "Almonds", "Pistachios"
+    ],
+    "ledikeni": [
+        "All-purpose flour", "Sugar", "Eggs", "Milk", "Baking powder",
+        "Ghee", "Vanilla extract", "Salt", "Butter", "Oil for frying",
+        "Condensed milk", "Cardamom powder", "Saffron", "Rose water", "Nutmeg"
+    ],
+    "litti_chokha": [
+        "Whole wheat flour", "Sattu (roasted gram flour)", "Ginger", "Garlic",
+        "Green chilies", "Coriander leaves", "Salt", "Ghee", "Oil",
+        "Baking powder", "Cumin seeds", "Turmeric", "Lemon juice", "Onions", "Mustard seeds"
+    ],
+    "lyangcha": [
+        "All-purpose flour", "Sugar", "Milk", "Ghee", "Cardamom powder",
+        "Rose water", "Saffron", "Condensed milk", "Baking powder", "Nutmeg",
+        "Cloves", "Oil for frying", "Almonds", "Pistachios", "Butter"
+    ],
+    "maach_jhol": [
+        "Fish pieces", "Potatoes", "Tomatoes", "Onions", "Garlic", "Ginger",
+        "Green chilies", "Mustard oil", "Turmeric", "Cumin seeds", "Coriander powder",
+        "Red chili powder", "Salt", "Cilantro", "Lemon juice"
+    ],
+    "makki_di_roti_sarson_da_saag": [
+        "Maize flour", "Spinach", "Mustard greens", "Garlic", "Ginger",
+        "Onions", "Green chilies", "Ghee", "Salt", "Corn flour",
+        "Cumin seeds", "Butter", "Red chili powder", "Coriander powder", "Fenugreek leaves"
+    ],
+    "malapua": [
+        "All-purpose flour", "Milk", "Sugar", "Ghee", "Cardamom powder",
+        "Yeast", "Water", "Saffron", "Rose water", "Condensed milk",
+        "Nutmeg", "Cloves", "Almonds", "Pistachios", "Oil for frying"
+    ],
+    "malukiah": [
+        "Mulukhiyah leaves", "Chicken or beef broth", "Garlic", "Coriander powder",
+        "Onions", "Olive oil", "Salt", "Black pepper", "Lemon juice", "Ginger",
+        "Green chilies", "Tomatoes", "Cilantro", "Butter", "Bay leaves"
+    ],
+    "maqluba": [
+        "Rice", "Chicken or lamb", "Eggplants", "Potatoes", "Cauliflower",
+        "Onions", "Garlic", "Tomatoes", "Cinnamon", "Allspice", "Salt",
+        "Black pepper", "Olive oil", "Chicken stock", "Yogurt"
+    ],
+    "meatballs_with_mushroom": [
+        "Ground beef or lamb", "Mushrooms", "Onions", "Garlic", "Breadcrumbs",
+        "Eggs", "Parmesan cheese", "Salt", "Black pepper", "Olive oil",
+        "Tomato sauce", "Parsley", "Thyme", "Oregano", "Red wine"
+    ],
+    "meatballs_with_nodels": [
+        "Ground beef or lamb", "Onions", "Garlic", "Breadcrumbs", "Eggs",
+        "Salt", "Black pepper", "Parmesan cheese", "Olive oil", "Tomato sauce",
+        "Spaghetti or noodles", "Parsley", "Basil", "Oregano", "Red chili flakes"
+    ],
+    "misi_roti": [
+        "Millet flour", "Wheat flour", "Water", "Salt", "Oil", "Yeast",
+        "Sugar", "Ghee", "Fenugreek leaves", "Cumin seeds", "Garlic",
+        "Onions", "Green chilies", "Yogurt", "Butter"
+    ],
+    "misti_doi": [
+        "Yogurt", "Sugar", "Milk", "Cardamom powder", "Saffron",
+        "Condensed milk", "Rose water", "Ghee", "Nutmeg", "Cloves",
+        "Almonds", "Pistachios", "Cashews", "Cream", "Vanilla extract"
+    ],
+    "mix_salad": [
+        "Lettuce", "Spinach", "Cucumber", "Cherry tomatoes", "Carrots",
+        "Bell peppers", "Onions", "Avocado", "Olive oil", "Lemon juice",
+        "Salt", "Black pepper", "Feta cheese", "Cilantro", "Sunflower seeds"
+    ],
+    "mixixi_sandwich": [
+        "Bread slices", "Chicken or turkey slices", "Lettuce", "Tomatoes",
+        "Onions", "Cheddar cheese", "Mayonnaise", "Mustard", "Salt",
+        "Black pepper", "Olive oil", "Pickles", "Avocado", "Cucumber", "Bell peppers"
+    ],
+    "modak": [
+        "Rice flour", "Jaggery", "Coconut", "Cardamom powder", "Ghee",
+        "Water", "Salt", "Nutmeg", "Cloves", "Almonds",
+        "Cashews", "Pistachios", "Rose water", "Condensed milk", "Milk"
+    ],
+    "mysore_pak": [
+        "Gram flour", "Ghee", "Sugar", "Water", "Cardamom powder",
+        "Saffron", "Almonds", "Cashews", "Pistachios", "Nutmeg",
+        "Cloves", "Butter", "Milk", "Condensed milk", "Rose water"
+    ],
+    "naan": [
+        "All-purpose flour", "Yeast", "Sugar", "Salt", "Yogurt", "Milk",
+        "Water", "Ghee", "Butter", "Olive oil", "Garlic", "Cilantro",
+        "Baking powder", "Eggs", "Sesame seeds"
+    ],
+    "navrattan_korma": [
+        "Mixed vegetables", "Paneer", "Cashews", "Cream", "Yogurt",
+        "Onions", "Garlic", "Ginger", "Green chilies", "Cumin powder",
+        "Coriander powder", "Turmeric", "Garam masala", "Salt", "Oil"
+    ],
+    "okra_chicken": [
+        "Chicken pieces", "Okra", "Onions", "Tomatoes", "Garlic", "Ginger",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Red chili powder",
+        "Salt", "Black pepper", "Oil", "Cilantro", "Green chilies"
+    ],
+    "omellet_pie": [
+        "Eggs", "Milk", "Cheese", "Onions", "Bell peppers", "Spinach",
+        "Salt", "Black pepper", "Butter", "Olive oil", "Cream", "Mushrooms",
+        "Bacon", "Parsley", "Nutmeg"
+    ],"palak_paneer": [
+        "Spinach", "Paneer", "Onions", "Garlic", "Ginger", "Tomatoes",
+        "Cumin seeds", "Coriander powder", "Turmeric", "Garam masala",
+        "Salt", "Black pepper", "Cream", "Oil", "Butter"
+    ],
+    "pancakce_banana": [
+        "All-purpose flour", "Baking powder", "Salt", "Sugar", "Eggs",
+        "Milk", "Butter", "Banana", "Vanilla extract", "Cinnamon",
+        "Nutmeg", "Honey", "Maple syrup", "Yogurt", "Oil"
+    ],
+    "paneer_butter_masala": [
+        "Paneer", "Tomatoes", "Onions", "Garlic", "Ginger", "Butter",
+        "Cream", "Cumin seeds", "Coriander powder", "Turmeric", "Red chili powder",
+        "Garam masala", "Salt", "Sugar", "Oil"
+    ],
+    "penna_arabiata": [
+        "Penne pasta", "Tomatoes", "Garlic", "Olive oil", "Red chili flakes",
+        "Onions", "Salt", "Black pepper", "Basil", "Oregano",
+        "Parmesan cheese", "Tomato paste", "Sugar", "Parsley", "Thyme"
+    ],
+    "pesto_chicken_sandwich": [
+        "Chicken breast", "Bread slices", "Pesto sauce", "Lettuce", "Tomato slices",
+        "Cheddar cheese", "Mayonnaise", "Olive oil", "Salt", "Black pepper",
+        "Garlic", "Cucumber", "Onions", "Basil", "Butter"
+    ],
+    "pesto_with_rice2": [
+        "Basmati rice", "Pesto sauce", "Olive oil", "Garlic", "Parmesan cheese",
+        "Salt", "Black pepper", "Cherry tomatoes", "Basil", "Pine nuts",
+        "Onions", "Butter", "Lemon juice", "Parsley", "Vegetables (optional)"
+    ],
+    "phirni": [
+        "Rice flour", "Milk", "Sugar", "Cardamom powder", "Saffron",
+        "Ghee", "Almonds", "Cashews", "Pistachios", "Rose water",
+        "Condensed milk", "Nutmeg", "Cloves", "Butter", "Cream"
+    ],
+    "pink pasta": [
+        "Penne pasta", "Tomato sauce", "Cream", "Garlic", "Onions",
+        "Olive oil", "Salt", "Black pepper", "Parmesan cheese", "Basil",
+        "Red chili flakes", "Butter", "Mushrooms", "Spinach", "Parsley"
+    ],
+    "pithe": [
+        "Rice flour", "Jaggery", "Coconut", "Ghee", "Cardamom powder",
+        "Sugar", "Water", "Nutmeg", "Cloves", "Milk",
+        "Almonds", "Cashews", "Pistachios", "Rose water", "Condensed milk"
+    ],
+    "pizza_tortilla": [
+        "Tortilla", "Tomato sauce", "Mozzarella cheese", "Bell peppers", "Onions",
+        "Olive oil", "Salt", "Black pepper", "Mushrooms", "Basil",
+        "Pepperoni or chicken", "Oregano", "Garlic", "Parmesan cheese", "Spinach"
+    ],
+    "poha": [
+        "Flattened rice (poha)", "Onions", "Green chilies", "Turmeric",
+        "Mustard seeds", "Curry leaves", "Peanuts", "Salt", "Sugar",
+        "Lemon juice", "Cilantro", "Oil", "Potatoes", "Carrots", "Grated coconut"
+    ],
+    "poornalu": [
+        "Rice flour", "Jaggery", "Coconut", "Ghee", "Cardamom powder",
+        "Sugar", "Water", "Nutmeg", "Cloves", "Milk",
+        "Almonds", "Cashews", "Pistachios", "Rose water", "Condensed milk"
+    ],
+    "pootharekulu": [
+        "Rice flour", "Sugar", "Ghee", "Cardamom powder", "Almonds",
+        "Cashews", "Pistachios", "Rose water", "Saffron", "Milk",
+        "Nutmeg", "Cloves", "Condensed milk", "Butter", "Oil for frying"
+    ],
+    "poreto": [
+        "Pasta", "Tomatoes", "Garlic", "Olive oil", "Onions",
+        "Salt", "Black pepper", "Basil", "Oregano", "Parmesan cheese",
+        "Cream", "Red chili flakes", "Mushrooms", "Spinach", "Parsley"
+    ],
+    "prawn and rice": [
+        "Prawns", "Basmati rice", "Garlic", "Ginger", "Onions",
+        "Tomatoes", "Cumin", "Coriander powder", "Turmeric", "Chili powder",
+        "Salt", "Black pepper", "Olive oil", "Cilantro", "Lemon juice"
+    ],
+    "pumkin_salad": [
+        "Pumpkin", "Spinach", "Arugula", "Feta cheese", "Walnuts",
+        "Olive oil", "Lemon juice", "Salt", "Black pepper", "Pomegranate seeds",
+        "Red onion", "Cucumber", "Sunflower seeds", "Maple syrup", "Honey"
+    ],
+    "pumkin_salad_": [
+        "Pumpkin", "Kale", "Arugula", "Goat cheese", "Pecans",
+        "Olive oil", "Lime juice", "Salt", "Black pepper", "Cranberries",
+        "Red onion", "Cucumber", "Sesame seeds", "Maple syrup", "Honey"
+    ],
+    "qubani_ka_meetha": [
+        "Dried apricots", "Sugar", "Water", "Ghee", "Cardamom powder",
+        "Almonds", "Cashews", "Pistachios", "Rose water", "Saffron",
+        "Nutmeg", "Cloves", "Condensed milk", "Milk", "Butter"
+    ],
+    "rabri": [
+        "Milk", "Sugar", "Cardamom powder", "Saffron", "Ghee",
+        "Almonds", "Cashews", "Pistachios", "Nutmeg", "Cloves",
+        "Rose water", "Condensed milk", "Cream", "Butter", "Milk powder"
+    ],
+    "ras_malai": [
+        "Paneer", "Milk", "Sugar", "Cardamom powder", "Saffron",
+        "Rose water", "Almonds", "Cashews", "Pistachios", "Nutmeg",
+        "Cloves", "Condensed milk", "Cream", "Butter", "Ghee"
+    ],
+    "rasgulla": [
+        "Chhena (paneer)", "Sugar", "Water", "Cardamom powder", "Rose water",
+        "Saffron", "Nutmeg", "Cloves", "Milk", "Ghee", "Condensed milk",
+        "Butter", "Almonds", "Cashews", "Pistachios"
+    ],
+    "red_shawerma": [
+        "Chicken or beef", "Shawarma spices", "Garlic", "Yogurt", "Lemon juice",
+        "Olive oil", "Onions", "Tomatoes", "Cucumber", "Salt",
+        "Black pepper", "Paprika", "Coriander powder", "Tahini", "Parsley"
+    ],
+    "saffaran": [
+        "Saffron strands", "Milk", "Sugar", "Cardamom powder", "Almonds",
+        "Cashews", "Pistachios", "Ghee", "Rose water", "Nutmeg",
+        "Cloves", "Butter", "Condensed milk", "Cream", "Rice"
+    ],
+    "salamon": [
+        "Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Dill",
+        "Salt", "Black pepper", "Paprika", "Butter", "Honey",
+        "Soy sauce", "Mustard", "Thyme", "Rosemary", "Parsley"
+    ],
+    "sandesh": [
+        "Chhena (paneer)", "Sugar", "Cardamom powder", "Rose water", "Saffron",
+        "Almonds", "Cashews", "Pistachios", "Nutmeg", "Cloves",
+        "Milk", "Ghee", "Butter", "Condensed milk", "Cream"
+    ],
+    "scrambel_egg": [
+        "Eggs", "Milk", "Butter", "Salt", "Black pepper", "Cheddar cheese",
+        "Onions", "Bell peppers", "Spinach", "Garlic", "Cream", "Parsley",
+        "Tomatoes", "Mushrooms", "Chives"
+    ],
+    "shankarpali": [
+        "All-purpose flour", "Sugar", "Ghee", "Milk", "Cardamom powder",
+        "Baking powder", "Salt", "Butter", "Nutmeg", "Cloves",
+        "Rose water", "Condensed milk", "Oil for frying", "Almonds", "Pistachios"
+    ],
+    "sheer_korma": [
+        "Vermicelli", "Milk", "Sugar", "Dates", "Cardamom powder",
+        "Saffron", "Almonds", "Cashews", "Pistachios", "Raisins",
+        "Ghee", "Rose water", "Condensed milk", "Butter", "Nutmeg"
+    ],
+    "sheera": [
+        "Semolina", "Sugar", "Ghee", "Milk", "Cardamom powder",
+        "Saffron", "Almonds", "Cashews", "Pistachios", "Nutmeg",
+        "Cloves", "Rose water", "Condensed milk", "Butter", "Milk powder"
+    ],
+    "shesh_tawok": [
+        "Chicken breast", "Yogurt", "Garlic", "Lemon juice", "Olive oil",
+        "Paprika", "Cumin", "Coriander powder", "Salt", "Black pepper",
+        "Onions", "Bell peppers", "Tomatoes", "Parsley", "Sumac"
+    ],
+    "shrikhand": [
+        "Hung curd (yogurt)", "Sugar", "Cardamom powder", "Saffron",
+        "Almonds", "Cashews", "Pistachios", "Nutmeg", "Cloves", "Rose water",
+        "Milk", "Butter", "Condensed milk", "Cream", "Ghee"
+    ],
+    "sieryeh_chicken": [
+        "Chicken breast", "Garlic", "Onions", "Tomatoes", "Ginger",
+        "Cumin powder", "Coriander powder", "Turmeric", "Paprika",
+        "Salt", "Black pepper", "Olive oil", "Lemon juice", "Cilantro", "Chili flakes"
+    ],
+    "sofle_beef": [
+        "Ground beef", "Chocolate", "Flour", "Sugar", "Eggs",
+        "Butter", "Baking powder", "Vanilla extract", "Salt", "Milk",
+        "Cream", "Cocoa powder", "Chocolate chips", "Almonds", "Walnuts"
+    ],
+    "sofle_chicken": [
+        "Chicken breast", "Flour", "Eggs", "Butter", "Milk",
+        "Salt", "Black pepper", "Garlic", "Onions", "Cream",
+        "Cheese", "Parsley", "Paprika", "Thyme", "Olive oil"
+    ],
+    "sohan_halwa": [
+        "Sugar", "Wheat flour", "Ghee", "Saffron", "Cardamom powder",
+        "Almonds", "Cashews", "Pistachios", "Rose water", "Butter",
+        "Milk", "Nutmeg", "Cloves", "Condensed milk", "Oil"
+    ],
+    "sohan_papdi": [
+        "Sugar", "Gram flour", "Ghee", "Cardamom powder", "Almonds",
+        "Cashews", "Pistachios", "Rose water", "Milk", "Saffron",
+        "Nutmeg", "Cloves", "Condensed milk", "Butter", "Oil"
+    ],
+    "spheghati_beef_pasta": [
+        "Spaghetti", "Ground beef", "Tomato sauce", "Onions", "Garlic",
+        "Olive oil", "Salt", "Black pepper", "Basil", "Oregano",
+        "Parmesan cheese", "Red chili flakes", "Bell peppers", "Carrots", "Parsley"
+    ],
+    "spheghati_chicken_ball": [
+        "Spaghetti", "Chicken meatballs", "Tomato sauce", "Onions", "Garlic",
+        "Olive oil", "Salt", "Black pepper", "Basil", "Oregano",
+        "Parmesan cheese", "Red chili flakes", "Bell peppers", "Carrots", "Parsley"
+    ],
+    "steak_with_maish_potato": [
+        "Beef steak", "Potatoes", "Butter", "Olive oil", "Garlic",
+        "Salt", "Black pepper", "Thyme", "Rosemary", "Parsley",
+        "Cream", "Onions", "Mushrooms", "Paprika", "Vegetable oil"
+    ],
+    "strawberries Pudding": [
+        "Strawberries", "Milk", "Sugar", "Cornstarch", "Vanilla extract",
+        "Cream", "Gelatin", "Eggs", "Butter", "Salt",
+        "Lemon juice", "Almonds", "Pistachios", "Honey", "Cocoa powder"
+    ],
+    "sutar_feni": [
+        "All-purpose flour", "Sugar", "Ghee", "Cardamom powder", "Milk",
+        "Rose water", "Saffron", "Nutmeg", "Cloves", "Almonds",
+        "Cashews", "Pistachios", "Condensed milk", "Butter", "Oil"
+    ],
+    "sweet_fish_Fillet": [
+        "Fish fillets", "Honey", "Soy sauce", "Garlic", "Ginger",
+        "Olive oil", "Salt", "Black pepper", "Lemon juice", "Butter",
+        "Paprika", "Thyme", "Parsley", "Sesame seeds", "Green onions"
+    ],
+    "tabolah": [
+        "Bulgur wheat", "Parsley", "Tomatoes", "Onions", "Mint",
+        "Lemon juice", "Olive oil", "Salt", "Black pepper", "Cucumber",
+        "Garlic", "Red bell pepper", "Green onions", "Pomegranate seeds", "Cilantro"
+    ],
+    "tuna_sandwich": [
+        "Canned tuna", "Mayonnaise", "Bread slices", "Lettuce", "Tomatoes",
+        "Onions", "Salt", "Black pepper", "Olive oil", "Pickles",
+        "Cucumber", "Cheddar cheese", "Lemon juice", "Parsley", "Mustard"
+    ],
+    "turkey_eggs": [
+        "Turkey meat", "Eggs", "Salt", "Black pepper", "Garlic",
+        "Onions", "Butter", "Olive oil", "Thyme", "Rosemary",
+        "Parsley", "Paprika", "Cream", "Mushrooms", "Spinach"
+    ],
+    "tuscan_chicken": [
+        "Chicken breast", "Spinach", "Sun-dried tomatoes", "Garlic", "Onions",
+        "Cream", "Parmesan cheese", "Olive oil", "Salt", "Black pepper",
+        "Thyme", "Rosemary", "Chicken stock", "Butter", "Red chili flakes"
+    ],
+    "unni_appam": [
+        "Rice flour", "Jaggery", "Coconut", "Cardamom powder", "Ghee",
+        "Water", "Banana", "Sugar", "Milk", "Nutmeg",
+        "Cloves", "Oil for frying", "Almonds", "Cashews", "Pistachios"
+    ],
+    "vegetables_chicken_lasagna": [
+        "Lasagna sheets", "Chicken breast", "Zucchini", "Bell peppers", "Onions",
+        "Garlic", "Tomato sauce", "Cheese", "Cream", "Olive oil",
+        "Salt", "Black pepper", "Basil", "Oregano", "Parmesan cheese"
+    ],
+    "white_boiled_rice": [
+        "Basmati rice", "Water", "Salt", "Butter", "Olive oil",
+        "Bay leaves", "Cinnamon", "Cloves", "Cardamom", "Saffron",
+        "Nutmeg", "Peppercorns", "Onions", "Garlic", "Parsley"
+    ],
+    "white_shawerma": [
+        "Chicken or beef", "Yogurt", "Garlic", "Lemon juice", "Olive oil",
+        "Cumin", "Coriander powder", "Paprika", "Salt", "Black pepper",
+        "Onions", "Tomatoes", "Tahini", "Parsley", "Sumac"
+    ],
+    "zukini_penna_pasta": [
+        "Penne pasta", "Zucchini", "Garlic", "Onions", "Tomatoes",
+        "Olive oil", "Salt", "Black pepper", "Basil", "Parmesan cheese",
+        "Cream", "Red chili flakes", "Thyme", "Parsley", "Butter"
+    ],
+    "Éclair": [
+        "Choux pastry", "Butter", "Water", "Flour", "Eggs",
+        "Sugar", "Cream", "Vanilla extract", "Chocolate", "Milk",
+        "Salt", "Almonds", "Pistachios", "Nutmeg", "Cocoa powder"
+    ]
+}
